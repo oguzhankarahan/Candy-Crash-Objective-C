@@ -1,0 +1,19 @@
+Programming by Matthijs Hollemans
+http://www.hollance.com
+
+Some of the techniques used in this source code are based on a
+blog post by Emanuele Feronato: 
+http://www.emanueleferonato.com/2011/05/09/complete-bejeweled-game-in-less-than-2kb-legible-version/
+
+Artwork by Vicki Wenderlich
+http://www.vickiwenderlich.com
+
+"Mining by Moonlight" Kevin MacLeod (incompetech.com) 
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+
+The sound effects are based on these samples:
+- Chomp sound: http://freesound.org/people/j1987/sounds/106392/
+- Ka-ching sound: http://freesound.org/people/CapsLok/sounds/184438/
+- Drip sound: http://freesound.org/people/acclivity/sounds/25879/
+- Scrape sound: http://freesound.org/people/Eelke/sounds/187562/
